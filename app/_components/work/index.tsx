@@ -4,7 +4,7 @@ import styles from "./work.module.css";
 export default function WorkPage() {
   return (
     <main id="work" className={styles.container}>
-         <section id="strengths" className={styles.container}></section>
+         <section id="work" className={styles.container}></section>
               <h2 className={styles.heading}>Work</h2>
       <hr></hr>
       <p className={styles.text}>

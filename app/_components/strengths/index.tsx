@@ -6,7 +6,7 @@ export default function Strengths() {
   return (
     <main className={styles.container}>
        <section id="strengths" className={styles.container}>
-        <main id="About" className={styles.container}></main>
+        <main id="strengths" className={styles.container}></main>
       <h2 className={styles.heading}>Strengths</h2>
       <hr></hr>
       <p className={styles.text}>
